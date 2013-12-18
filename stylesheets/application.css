@@ -1,0 +1,28 @@
+body{
+  width: 100%;
+  height: 100%;
+  font-family: 'PT Sans', sans-serif;
+  text-align:center;
+  padding-top:20px;
+  margin-top:70px;
+}
+
+a, a:hover, a:visited, a:active{
+  text-decoration: none;
+}
+
+h3 {
+  color: #779cb4;
+  padding:60px 0px 60px 0px;
+  font-size:25px;
+  font-weight:normal;
+}
+
+
+#mf-logo{
+  margin:30px;
+}
+
+#rl-logo{
+  margin:30px;
+}
